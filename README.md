@@ -27,3 +27,6 @@ My own math library
  - n-square root 
  - percentage functions
  - 3D units conversions
+
+[![MitasVit's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mitasvit&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/mitasvit/github-readme-stats#gh-dark-mode-only)
+[![MitasVit's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mitasvit&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/mitasvit/github-readme-stats#gh-light-mode-only)
